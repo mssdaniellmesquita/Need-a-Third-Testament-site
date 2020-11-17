@@ -2,15 +2,15 @@
     "version" : "https://jsonfeed.org/version/1",
     "title" : "Do you still need a Third Testament?",
     "description": "Recent content on Do you still need a Third Testament?",
-    "home_page_url" : "https://floflis.github.io/blog/",
-    "feed_url" : "https://floflis.github.io/blog/en/index.json",
+    "home_page_url" : "",
+    "feed_url" : "/en/index.json",
     "items" : [
     {
         "title" : "Posts",
         "date_published" : "2019-06-23T14:33:54-04:00",
         "date_modified" : "2019-06-23T14:33:54-04:00",
-        "id" : "https://floflis.github.io/blog/en/post/",
-        "url" : "https://floflis.github.io/blog/en/post/",
+        "id" : "/en/post/",
+        "url" : "/en/post/",
         "content_html" : ""
     }
     ]
