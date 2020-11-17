@@ -2,7 +2,7 @@
     "version" : "https://jsonfeed.org/version/1",
     "title" : "Posts on Do you still need a Third Testament?",
     "description": "Recent content in Posts on Do you still need a Third Testament?",
-    "home_page_url" : "",
+    "home_page_url" : "/",
     "feed_url" : "/en/post/index.json",
     "items" : [
     {
