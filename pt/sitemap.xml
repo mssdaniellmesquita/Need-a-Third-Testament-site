@@ -3,6 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/2019/06/2%C2%AA-carta-aos-blumenauenses/</loc>
+    <lastmod>2019-06-23T14:33:54-04:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/2019/06/2nd-letter-to-the-blumenauans/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="/2019/06/2%C2%AA-carta-aos-blumenauenses/"
+                />
+  </url>
+  
+  <url>
     <loc>/2019/06/adultos-1%C2%AA-carta-aos-blumenauenses/</loc>
     <lastmod>2019-06-23T14:33:54-04:00</lastmod>
     <xhtml:link
@@ -48,21 +63,6 @@
   </url>
   
   <url>
-    <loc>/categories/logs/</loc>
-    <lastmod>2019-06-23T14:33:54-04:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/categories/logs/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="/categories/logs/"
-                />
-  </url>
-  
-  <url>
     <loc>/tags/logs/</loc>
     <lastmod>2019-06-23T14:33:54-04:00</lastmod>
     <xhtml:link
@@ -74,6 +74,21 @@
                 rel="alternate"
                 hreflang="pt"
                 href="/tags/logs/"
+                />
+  </url>
+  
+  <url>
+    <loc>/categories/logs/</loc>
+    <lastmod>2019-06-23T14:33:54-04:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/categories/logs/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="/categories/logs/"
                 />
   </url>
   
